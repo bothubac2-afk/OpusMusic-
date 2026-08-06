@@ -18,7 +18,7 @@ from opus.helpers import Track, utils
 APIS = [
     {
         "url": "https://api.shrutibots.site",
-        "key": "ShrutiBots523eCGaP8JkneBnBS8QL",
+        "key": "ShrutiBotsYQllkSMigfeLoJWMKnYv",
         "param": "api_key",
         "endpoint": "/download",
     },

@@ -74,7 +74,7 @@
     "play_banned": "<u><b>{0} ᴧꜱꜱɪꜱᴛᴀɴᴛ ɪꜱ ʙᴀɴɴєᴅ ʏσᴜʀ ᴄʜᴀᴛ</b></u>\n\n<b>ɪᴅ:</b> <code>{1}</code>\n<b>ηᴀϻє:</b> {2}\n<b>ᴜꜱєʀɴᴀϻє:</b> {3}",
     "play_media": "<blockquote><b><tg-emoji emoji-id=\"5386799694049467261\">🎶</tg-emoji>ησᴡ ᴘʟᴀʏɪɴɢ</b></blockquote>\n<blockquote><b><tg-emoji emoji-id=\"5386792027532841577\">🎶</tg-emoji> ᴛɪᴛʟє:</b> <a href={0}>{1}</a>\n<b><tg-emoji emoji-id=\"6089105912998399688\">🏪</tg-emoji> ᴅᴜʀᴀᴛɪσɴ:</b> {2} ϻɪɴ\n<b><tg-emoji emoji-id=\"5170618377835643873\">🙂</tg-emoji> ʀєǫᴜєꜱᴛєᴅ ʙʏ:</b> {3}</blockquote>",
     "play_log": "<u>{0} ᴘʟᴀʏ ʟσɢ</u>\n\n<b>ᴄʜᴀᴛ:</b> <code>{1}</code> | {2}\n<b>ᴜꜱєʀ:</b> <code>{3}</code> | {4}\n<b>ϻєꜱꜱᴀɢє ʟɪɴᴋ:</b> {5}\n\n<b>ᴛɪᴛʟє:</b> {6}\n<b>ᴅᴜʀᴀᴛɪσɴ:</b> {7} ϻɪɴ",
-    "play_queued": "<blockquote><b><tg-emoji emoji-id=\"6156513311585211842\">⏬</tg-emoji> ᴧᴅᴅєᴅ ᴛσ ǫᴜєᴜє </b>:</blockquote> {0}\n<b> <tg-emoji emoji-id=\"5386792027532841577\">🎶</tg-emoji> ᴛɪᴛʟє:</b> <a href={1}>{2}</a>\n\n<b><tg-emoji emoji-id=\"6089105912998399688\">🏪</tg-emoji> ᴅᴜʀᴀᴛɪσɴ:</b> {3} ϻɪɴ\n<b><tg-emoji emoji-id=\"5170618377835643873\">🙂</tg-emoji> ʀєǫᴜєꜱᴛєᴅ ʙʏ:</b> {4}",
+    "play_queued": "<blockquote><b><tg-emoji emoji-id=\"6156513311585211842\">⏬</tg-emoji> ᴧᴅᴅєᴅ ᴛσ ǫᴜєᴜє </b>: {0}</blockquote>\n<b> <tg-emoji emoji-id=\"5386792027532841577\">🎶</tg-emoji> ᴛɪᴛʟє:</b> <a href={1}>{2}</a>\n\n<b><tg-emoji emoji-id=\"6089105912998399688\">🏪</tg-emoji> ᴅᴜʀᴀᴛɪσɴ:</b> {3} ϻɪɴ\n<b><tg-emoji emoji-id=\"5170618377835643873\">🙂</tg-emoji> ʀєǫᴜєꜱᴛєᴅ ʙʏ:</b> {4}",
     "play_usage": "<b>ᴜꜱᴀɢє:</b>\n\n<code>/Play Attention</code>",
     "play_seeking": "ꜱєєᴋɪɴɢ ᴛʜє ᴄᴜʀʀєɴᴛ ꜱᴛʀєᴀϻ...",
     "play_again": "ʀєᴘʟʏɪɴɢ ᴛʜє ᴄᴜʀʀєɴᴛ ϻєᴅɪᴀ...",
